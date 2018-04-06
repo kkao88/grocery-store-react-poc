@@ -1,3 +1,8 @@
+Public url: http://kevins-grocery-store.s3-website-us-east-1.amazonaws.com/#/
+
+how to start locally: yarn start
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
