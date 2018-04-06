@@ -1,0 +1,14 @@
+.item-container .item-container-internal {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item-container .item-box {
+    width: 20%;
+    padding: 10px 10px;
+}
+
+.item-container .item-image {
+    max-height: 100%;
+    max-width: 100%;
+}
